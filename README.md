@@ -1,7 +1,5 @@
 # Snake_game_project
 
-Here's an updated version of the GitHub repository description to include the scoreboard functionality that reads and writes to a text file:
-
 Title: Snake Game in Python using Turtle Graphics
 
 Description:
